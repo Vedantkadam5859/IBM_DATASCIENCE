@@ -61,6 +61,8 @@ To verify the certificates, click the images to follow the links.
   <a href="https://www.credly.com/badges/534b2735-6ce8-4c30-b7ea-55b54f2666cc/public_url"><img src="https://user-images.githubusercontent.com/110245477/219946540-c300ad79-4bd7-4b65-850e-a524cb837942.png" height="430"></a>
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="534b2735-6ce8-4c30-b7ea-55b54f2666cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Data Visualization with Python
 
