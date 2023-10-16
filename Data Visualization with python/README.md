@@ -52,20 +52,6 @@ The following Python libraries were used throughout the certification: <br>
 </p>  
 
 
-🏆 Certificates
-
-To verify the certificates, click the images to follow the links.
-
- <p align="middle">
-  <a href="https://coursera.org/verify/KCYHVVYM64M2"><img src="https://github.com/Vedantkadam5859/IBM_DATASCIENCE/blob/main/IBM%20DATA%20SCIENCE%20CERTIFICATES/Data%20Analysis%20with%20Python.pdf" height="430"></a>
-  <a href="https://www.credly.com/badges/534b2735-6ce8-4c30-b7ea-55b54f2666cc/public_url"><img src="https://user-images.githubusercontent.com/110245477/219946540-c300ad79-4bd7-4b65-850e-a524cb837942.png" height="430"></a>
-</p>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="534b2735-6ce8-4c30-b7ea-55b54f2666cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-<img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Data Visualization with Python
-
 Issued by Coursera
 Authorized by IBM
 This badge earner has a good understanding of what data visualization is, uses of data visualization, and best practices when creating plots and visuals. The individual has the skills to use different Python Libraries, mainly Matplotlib and Seaborn to generate different types of visualization tools such as line plots, scatter plots, bubble plots, area plots, histograms, and bar charts. The earner is able to use the Folium library to visualize geospatial data and to create choropleth maps.
